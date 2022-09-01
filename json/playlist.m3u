@@ -8,6 +8,9 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="Antena3" tvg-logo="https://scontent.fsvq2-1.fna.fbcdn.net/v/t39.30808-1/268846235_10158857987591298_7959305623882428636_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=ji11bpljQ3AAX_vD6bR&_nc_ht=scontent.fsvq2-1.fna&edm=AKsJ254EAAAA&oh=00_AT8yZjfaPhoX7gMCLZMH9_RWi2CX3V35N1Gwz_R_jvSDbQ&oe=62EA4027" group-title="Generalistas" tvg-name="Antena 3",Antena 3
 https://atres-live.atresmedia.com/fb0c701d095d08d413946ac22a658fc917cc42bd_ES_1659182195_1659210935/h264/live/antena3/master.m3u8
 
+#EXTINF:-1 tvg-id="Cuatro" tvg-logo="" group-title="Generalistas" tvg-name="Cuatro",Cuatro
+http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4&hlc=1&spv=0
+
 #EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Generalistas" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
@@ -84,7 +87,7 @@ http://127.0.0.1:6878/ace/getstream?id=612eed86f1ec250ebff3649e74e6729687c456f7&
 http://127.0.0.1:6878/ace/getstream?id=a5d22610cb7bd5608c14249e3984bacb54dfe487&hlc=1&spv=0
 
 #EXTINF:-1 tvg-id="MOVISTAR_ELLAS_HD" tvg-logo="" group-title="Deportivos" tvg-name="MOVISTAR ELLAS HD", MOVISTAR ELLAS HD
-http://127.0.0.1:6878/ace/getstream?id=96b091c006f02bb1ca80743905b2cffded8bc8b0&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=475f2c6ddf64b8f165a55046e8bc03b49cfe25cd&hlc=1&spv=0
 
 #EXTINF:-1 tvg-id="DAZN_1_HD" tvg-logo="" group-title="Deportivos" tvg-name="DAZN 1 HD", DAZN 1 HD
 http://127.0.0.1:6878/ace/getstream?id=d4d4200a1e52fc23940b2dde915600af7e9a6b05&hlc=1&spv=0
@@ -104,9 +107,6 @@ http://127.0.0.1:6878/ace/getstream?id=c372020ed2744033f56548b6beb11a9f3e740f37&
 #EXTINF:-1 tvg-id="DAZN_F1_SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Deportivos" tvg-name="DAZN F1 SD", DAZN F1 SD
 http://127.0.0.1:6878/ace/getstream?id=3f1c74da240b0933efaa572c0bdc24a7406ca7bf&hlc=1&spv=0
 
-#EXTINF:-1 tvg-id="EVENTO_MOMENTO" tvg-logo="" group-title="Deportivos" tvg-name="EVENTO DEL MOMENTO", EVENTO DEL MOMENTO
-http://127.0.0.1:6878/ace/getstream?id=023d23385b56bf762c5b77d96f321729ea9c6c18&hlc=1&spv=0
-
 #EXTINF:-1 tvg-id="GOL_HD" tvg-logo="" group-title="Deportivos" tvg-name="GOL HD",GOL HD
 http://127.0.0.1:6878/ace/getstream?id=49c35606668ebf7a895434ec4c9243a163d87718&hlc=1&spv=0
 
@@ -123,7 +123,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-id="BARSA.TV" tvg-logo="" group-title="Deportivos" tvg-name="Barça TV",Barça TV
-http://127.0.0.1:6878/ace/getstream?id=a7968ae40764bf3d4498c72328fcbaecbe0a3450&hlc=1&spv=0
+http://127.0.0.1:6878/ace/getstream?id=65c141632af256d70da66c767ba74360042b4396&hlc=1&spv=0
 
 #EXTINF:-1 tvg-id="OndaCadiz.TV" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="Andalucía" tvg-name="Onda Cádiz",Onda Cádiz
 https://adc-hls.flumotion.com/playlist.m3u8
@@ -151,3 +151,9 @@ https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-id="DOCUMENTALES" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/DOCUMENTALES.png" group-title="Peliculas" tvg-name="Documentales", Documentales
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61cd78920b90cb0007e28231/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=f19c&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 tvg-id="NAT.GEO.HD" tvg-logo="" tvg-name="NAT GEO HD", NAT GEO HD
+http://127.0.0.1:6878/ace/getstream?id=887d91ccc27fd4f3097d6df09448ea7bac8910f4&hlc=1&spv=0
+
+#EXTINF:-1 tvg-id="CANAL.HISTORIA" tvg-logo="" tvg-name="CANAL HISTORIA HD", CANAL HISTORIA HD
+http://127.0.0.1:6878/ace/getstream?id=8bc9696c5b07b723186ac224f5269f02db6dde8e&hlc=1&spv=0
